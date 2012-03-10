@@ -1,5 +1,0 @@
-C:\Users\Jim\Documents\Magic Briefcase\dev\Practice\Euler\Euler\Euler\bin\Debug\Euler.exe
-C:\Users\Jim\Documents\Magic Briefcase\dev\Practice\Euler\Euler\Euler\bin\Debug\Euler.pdb
-C:\Users\Jim\Documents\Magic Briefcase\dev\Practice\Euler\Euler\Euler\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Jim\Documents\Magic Briefcase\dev\Practice\Euler\Euler\Euler\obj\x86\Debug\Euler.exe
-C:\Users\Jim\Documents\Magic Briefcase\dev\Practice\Euler\Euler\Euler\obj\x86\Debug\Euler.pdb
