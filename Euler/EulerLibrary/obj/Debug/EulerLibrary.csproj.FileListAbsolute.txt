@@ -1,0 +1,10 @@
+C:\Users\Jim\Documents\Magic Briefcase\dev\Practice\Euler\Euler\EulerLibrary\bin\Debug\EulerLibrary.dll
+C:\Users\Jim\Documents\Magic Briefcase\dev\Practice\Euler\Euler\EulerLibrary\bin\Debug\EulerLibrary.pdb
+C:\Users\Jim\Documents\Magic Briefcase\dev\Practice\Euler\Euler\EulerLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jim\Documents\Magic Briefcase\dev\Practice\Euler\Euler\EulerLibrary\obj\Debug\EulerLibrary.dll
+C:\Users\Jim\Documents\Magic Briefcase\dev\Practice\Euler\Euler\EulerLibrary\obj\Debug\EulerLibrary.pdb
+C:\Users\Jimbo\Documents\Magic Briefcase\dev\Practice\Euler\Euler\EulerLibrary\bin\Debug\EulerLibrary.dll
+C:\Users\Jimbo\Documents\Magic Briefcase\dev\Practice\Euler\Euler\EulerLibrary\bin\Debug\EulerLibrary.pdb
+C:\Users\Jimbo\Documents\Magic Briefcase\dev\Practice\Euler\Euler\EulerLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jimbo\Documents\Magic Briefcase\dev\Practice\Euler\Euler\EulerLibrary\obj\Debug\EulerLibrary.dll
+C:\Users\Jimbo\Documents\Magic Briefcase\dev\Practice\Euler\Euler\EulerLibrary\obj\Debug\EulerLibrary.pdb
